@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+![image](https://user-images.githubusercontent.com/42349894/181434566-70bc3dad-7b47-4656-975f-5c3aaa96b364.png)
+# Lumi software guide 
+Lumi is an application software providing opprtuntiies for  
 
-You can use the [editor on GitHub](https://github.com/sankalpa61/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the https://www.youtube.com/watch?v=d_ykP5PCMzo for video tutorial in this topic
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
